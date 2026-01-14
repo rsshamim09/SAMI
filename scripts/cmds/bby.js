@@ -12,9 +12,9 @@ const cError = (api, threadID, messageID) =>
 
 module.exports.config = {
   name: "bby",
-  aliases: ["baby","bbu", "shan"],
+  aliases: ["baby","bbu", "shamim"],
   version: "1.6.9",
-  author: "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  author: "SHA MIM",
   role: 0,
   description: {
     en: "Talk with the bot or teach it new responses"
